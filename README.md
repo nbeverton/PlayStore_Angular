@@ -6,3 +6,5 @@
 - npx ng g c pages/home -> Para criar a rota de home dentro da pasta pages;
 - npx ng g c components/card -> Cria a pasta 'components' e o componente 'card';
 - npx ng g c components/menu-bar;
+- npx ng g c components/card/card-label;
+- npx ng g c components/card/card-pricing;
